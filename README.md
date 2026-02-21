@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sagar+👋;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver;Building+cool+things+with+code+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sagar Gupta+👋;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver;Building+cool+things+with+code+🚀">
 </p>
 
 <p align="center">
