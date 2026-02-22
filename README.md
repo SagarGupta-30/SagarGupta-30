@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sagar+Gupta+👋;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver;Building+cool+things+with+code+🚀">
 </p>
@@ -19,10 +17,9 @@ I’m a first-year student at **PW IOI, Bangalore**, passionate about building c
 ## 🌟 About Me
 
 - 🎓 Studying at **PW IOI, Bangalore**  
-- 💻 Learning: **Web Development + DSA**   
+- 💻 Learning: **Web Development + DSA**  
 - 🌱 Exploring: Frontend, UI/UX, and Problem Solving  
-- 📍 From: Bengaluru,Karnataka.
-
+- 📍 From: Bengaluru, Karnataka  
 
 ---
 
@@ -34,11 +31,18 @@ I’m a first-year student at **PW IOI, Bangalore**, passionate about building c
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🚀 Featured Project
 
 ### 🛒 **E-Commerce Website (IBM Project)**  
-🔗 Repo: **https://github.com/SagarGupta-30/IBM-PROJECT**
-
+🔗 Repo: https://github.com/SagarGupta-30/IBM-PROJECT
 
 ---
 
@@ -65,5 +69,3 @@ I’m a first-year student at **PW IOI, Bangalore**, passionate about building c
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
-
-
