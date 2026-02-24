@@ -1,7 +1,7 @@
  🀄️ Sagar Gupta  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=750&lines=Competitive+Programmer;Blockchain+%7C+Web3+Enthusiast;DSA+Focused;Building+Every+Single+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=750&lines=SAGAR+GUPTA;Aspiring+Software+Engineer;Competitive+Programmer;Blockchain+%7C+Web3+Enthusiast;DSA+Focused;Building+Every+Single+Day" />
 </p>
 
 ---
