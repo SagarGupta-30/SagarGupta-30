@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagar Gupta</h1>
-<h3 align="center">Software Engineer in Progress • Competitive Programmer • Blockchain Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Sagar+Gupta;Software+Engineer+in+Progress;Competitive+Programmer;Building+Every+Single+Day;Consistency+%3E+Motivation" 
+    alt="Typing SVG" 
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/SagarGupta-30">
    <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SagarGupta-30&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
