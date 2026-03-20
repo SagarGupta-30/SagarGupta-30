@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Gupta</h1>
+<h1 align="center">Hi , I'm Sagar Gupta</h1>
 
 <p align="center">
   <img 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 Engineering Student @ PW IOI, Bangalore  
 🧠 Strong problem-solving & analytical mindset  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 - Data Structures & Algorithms  
 - Competitive Programming  
@@ -59,7 +59,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌱 Greenova
 Blockchain-powered sustainability verification system  
