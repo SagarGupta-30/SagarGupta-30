@@ -16,6 +16,8 @@
 
 ---
 
+---
+
 ##  About Me
 
 🎓 Engineering Student @ PW IOI, Bangalore  
@@ -26,6 +28,7 @@
 > I believe long-term consistency beats short-term motivation.
 
 ---
+---
 
 ## Core Expertise
 
@@ -35,6 +38,7 @@
 - Blockchain Architecture Basics  
 - System Thinking & Optimization  
 
+---
 ---
 
 ## 🛠 Tech Stack
@@ -57,6 +61,7 @@
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge)
 
+---
 ---
 
 ##  Featured Projects
