@@ -147,6 +147,435 @@ Current interests include:
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Greenova
+
+### Blockchain-powered Sustainability Verification Platform
+
+**Overview**
+
+Greenova is a blockchain-based platform that enables transparent and tamper-proof sustainability reporting by recording verified environmental data on-chain.
+
+**Highlights**
+
+- ⚡ Real-time electricity monitoring
+- 🌍 Carbon footprint estimation
+- 🔒 Immutable blockchain records
+- 📊 Sustainability reporting
+- 🛡️ Transparent verification
+
+**Tech Stack**
+
+`Algorand` • `Web3`
+
+**Status**
+
+🟢 Active
+
+---
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📘 DSA Master Repository
+
+### Competitive Programming & Problem Solving
+
+A continuously growing collection of algorithm implementations and competitive programming solutions.
+
+**Topics Covered**
+
+- Graph Algorithms
+- Dynamic Programming
+- Number Theory
+- Probability
+- Advanced Recursion
+- Backtracking
+
+**Tech Stack**
+
+`C++`
+
+**Status**
+
+🟡 Growing
+
+---
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarGupta-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SagarGupta-30&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGupta-30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarGupta-30&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SagarGupta-30&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+| Metric | Description |
+|---------|-------------|
+| 🚀 Commits | Continuous Learning |
+| 🔥 Streak | Daily Coding |
+| 📦 Projects | Growing Portfolio |
+| 🌟 Repositories | Open Development |
+| 💻 Languages | Multi-language Experience |
+| 🤝 Collaboration | Open Source Ready |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Write Clean Code
+
+↓
+
+Understand Algorithms
+
+↓
+
+Design Better Systems
+
+↓
+
+Build Scalable Software
+
+↓
+
+Keep Learning
+```
+
+---
+
+# 📚 What I'm Currently Learning
+
+✔ Advanced Data Structures
+
+✔ Scalable Backend Architecture
+
+✔ System Design
+
+✔ Blockchain Development
+
+✔ Software Engineering Best Practices
+
+✔ Performance Optimization
+
+✔ API Design
+
+✔ Engineering Fundamentals
+
+---
+
+# 🎯 Engineering Interests
+
+- Backend Engineering
+
+- Distributed Systems
+
+- API Development
+
+- System Design
+
+- Blockchain Applications
+
+- Problem Solving
+
+- Competitive Programming
+
+- Software Architecture
+
+- Clean Code
+
+- Performance Optimization
+
+---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Greenova
+
+### Blockchain-powered Sustainability Verification Platform
+
+**Overview**
+
+Greenova is a blockchain-based platform that enables transparent and tamper-proof sustainability reporting by recording verified environmental data on-chain.
+
+**Highlights**
+
+- ⚡ Real-time electricity monitoring
+- 🌍 Carbon footprint estimation
+- 🔒 Immutable blockchain records
+- 📊 Sustainability reporting
+- 🛡️ Transparent verification
+
+**Tech Stack**
+
+`Algorand` • `Web3`
+
+**Status**
+
+🟢 Active
+
+---
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📘 DSA Master Repository
+
+### Competitive Programming & Problem Solving
+
+A continuously growing collection of algorithm implementations and competitive programming solutions.
+
+**Topics Covered**
+
+- Graph Algorithms
+- Dynamic Programming
+- Number Theory
+- Probability
+- Advanced Recursion
+- Backtracking
+
+**Tech Stack**
+
+`C++`
+
+**Status**
+
+🟡 Growing
+
+---
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarGupta-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SagarGupta-30&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGupta-30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarGupta-30&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SagarGupta-30&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+| Metric | Description |
+|---------|-------------|
+| 🚀 Commits | Continuous Learning |
+| 🔥 Streak | Daily Coding |
+| 📦 Projects | Growing Portfolio |
+| 🌟 Repositories | Open Development |
+| 💻 Languages | Multi-language Experience |
+| 🤝 Collaboration | Open Source Ready |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/SagarGupta-30/SagarGupta-30/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Write Clean Code
+
+↓
+
+Understand Algorithms
+
+↓
+
+Design Better Systems
+
+↓
+
+Build Scalable Software
+
+↓
+
+Keep Learning
+```
+
+---
+
+# 📚 What I'm Currently Learning
+
+✔ Advanced Data Structures
+
+✔ Scalable Backend Architecture
+
+✔ System Design
+
+✔ Blockchain Development
+
+✔ Software Engineering Best Practices
+
+✔ Performance Optimization
+
+✔ API Design
+
+✔ Engineering Fundamentals
+
+---
+
+# 🎯 Engineering Interests
+
+- Backend Engineering
+
+- Distributed Systems
+
+- API Development
+
+- System Design
+
+- Blockchain Applications
+
+- Problem Solving
+
+- Competitive Programming
+
+- Software Architecture
+
+- Clean Code
+
+- Performance Optimization
+
+---
 
 ```
