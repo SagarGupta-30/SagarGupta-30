@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&text=SAGAR%20GUPTA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Open%20Source%20Contributor%20•%20Google%20Student%20Ambassador%202026&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&text=SAGAR%20GUPTA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Google%20Student%20Ambassador&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Node.js;Open+Source+Contributor;Building+Scalable+Backend+Applications;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Java+%7C+Spring+Boot;REST+API+Developer;Open+Source+Contributor;Building+Real-World+Applications" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/SagarGupta-30">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,32 +20,31 @@
 
 </div>
 
--------------------------
+---
 
 # 👨‍💻 About Me
 
-I'm **Sagar Gupta**, a Software Engineering student passionate about designing and building **scalable backend applications**.
+Hi, I'm **Sagar Gupta**, a Computer Science Engineering student at **PW Institute of Innovation**, pursuing my B.Tech in CSE.
 
-My primary interests lie in **Backend Engineering, Distributed Systems, System Design, and Open Source**. I enjoy turning ideas into reliable software using modern technologies while continuously strengthening my understanding of engineering fundamentals.
+I'm focused on **Backend Development** and enjoy building APIs, working with databases, implementing authentication, and solving real-world problems through software.
 
-### 🚀 Highlights
+My current backend stack includes **Node.js, Express.js, MongoDB, SQL, REST APIs, and JWT authentication**, while I'm also expanding my skills in **Java, Spring Boot, Docker, Microservices, and System Design**.
 
-- 🎓 Software Engineering Student
-- 🌟 Google Student Ambassador 2026
-- 🌱 GirlScript Summer of Code (GSSoC) Contributor
-- 🐧 LFX Mentorship Aspirant
-- 💻 Backend Development Enthusiast
-- 📚 Currently exploring Spring Boot, Docker, Redis & Microservices
+I also actively participate in **Open Source** and developer communities.
+
+### 🚀 Currently
+
+* 🎓 B.Tech CSE Student — PW Institute of Innovation
+* 🌟 Google Student Ambassador 2026
+* 🌱 GirlScript Summer of Code 2026 Contributor
+* 💻 Focused on Backend Engineering
+* 🔨 Building REST APIs and full-stack applications
+* 📚 Learning Spring Boot, Docker & Microservices
+* 🧩 Practicing Data Structures & Algorithms
 
 ---
-## ⚡ Tech Arsenal
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
+# ⚡ Tech Stack
 
 ### 💻 Languages
 
@@ -53,33 +52,11 @@ My primary interests lie in **Backend Engineering, Distributed Systems, System D
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" />
 </p>
 
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
 ### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
-
-</td>
-
-<td align="center">
 
 ### 🗄️ Databases
 
@@ -87,422 +64,197 @@ My primary interests lie in **Backend Engineering, Distributed Systems, System D
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ☁️ Dev Tools
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-</td>
-
-<td align="center">
-
-### 🌱 Currently Learning
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=redis,kafka,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
 </p>
-
-<p>
-
-📚 **Spring Boot**
-
-⚡ **Microservices**
-
-🏗️ **System Design**
-
-🔄 **Distributed Systems**
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
-## 🎯 Engineering Interests
+# 🧠 Backend Skills
 
-<div align="center">
-
-| Backend | Architecture | Open Source | Problem Solving |
-|:--------:|:------------:|:-----------:|:---------------:|
-| REST APIs | System Design | GSSoC | Data Structures |
-| Spring Boot | Microservices | LFX | Algorithms |
-| Node.js | Scalability | Community | Competitive Programming |
-
-</div>
-
----
-
-## 📌 What I'm Working On
-
-```text
-🚀 Building production-ready backend applications
-
-📚 Learning Spring Boot & Microservices
-
-⚡ Practicing Data Structures & Algorithms
-
-🌍 Contributing to Open Source
-
-☁️ Exploring Cloud & Distributed Systems
-```
+| Area                | Technologies                            |
+| ------------------- | --------------------------------------- |
+| **Backend**         | Node.js, Express.js, Java, Spring Boot  |
+| **APIs**            | REST APIs, CRUD, HTTP, JSON             |
+| **Authentication**  | JWT, Password Hashing, Protected Routes |
+| **Databases**       | MongoDB, MySQL, PostgreSQL              |
+| **Programming**     | JavaScript, Java, C++, Python           |
+| **Tools**           | Git, GitHub, Postman, Docker            |
+| **Frontend**        | HTML, CSS, JavaScript, React, Next.js   |
+| **Problem Solving** | Data Structures & Algorithms            |
 
 ---
+
 # 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
 
 ## 📄 ElevateCV AI
 
-**AI-Powered Resume Builder & ATS Analyzer**
+### AI-Powered Resume Builder & Analyzer
 
-Create professional resumes with AI assistance and receive ATS optimization feedback to improve hiring chances.
+ElevateCV AI helps users create professional resumes and analyze them against job requirements with AI-assisted functionality.
 
-### ⚡ Highlights
+### 🔥 What I Built
 
-- 🤖 AI-powered resume generation
-- 📄 ATS resume analysis
-- 🔐 Authentication & secure user management
-- 📊 Resume dashboard
-- ⚙️ RESTful Backend APIs
+* Developed backend REST APIs using **Node.js & Express.js**
+* Implemented **JWT-based authentication**
+* Built protected backend routes
+* Integrated **MongoDB Atlas**
+* Developed resume management APIs
+* Worked on resume analysis functionality
+* Implemented backend business logic and validation
+* Connected frontend with backend APIs
+* Worked on deployment and backend configuration
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-</p>
+**Node.js • Express.js • JavaScript • MongoDB • JWT • REST APIs • Git**
 
 <p align="center">
 
 <a href="https://github.com/SagarGupta-30/elevatecv-ai">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://elevatecv-ai.netlify.app/">
-
-<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
+<a href="https://elevatecv-ai-rose.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ✅ Task Tracker
-
-**Modern Task Management Application**
-
-A productivity platform that helps users organize tasks with authentication and persistent storage.
-
-### ⚡ Highlights
-
-- 📝 Full CRUD operations
-- 👤 User authentication
-- 📅 Task organization
-- ⚡ REST API architecture
-- 💾 MongoDB integration
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/SagarGupta-30/Task-Tracker-application-">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌐 Social Connect
-
-**Social Networking Platform**
-
-A full-stack social application where users can connect, create posts, and interact with the community.
-
-### ⚡ Highlights
-
-- 👥 User Profiles
-- 📝 Create & Manage Posts
-- ❤️ Like & Interact
-- 🔐 Authentication
-- ⚡ RESTful APIs
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/SagarGupta-30/Social_Connect">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 📈 2026 Goals
-
-### 🎯 Career Roadmap
-
-✅ Master Spring Boot
-
-✅ Learn Microservices
-
-✅ Deep Dive into System Design
-
-✅ Contribute to LFX Projects
-
-✅ Crack a Backend Internship
-
-✅ Build Production-Ready APIs
-
-✅ Explore Distributed Systems
 
 ---
 
-### 💡 Engineering Philosophy
+## 🏠 Accommodation Booking Platform
 
-> *"Great software isn't just about writing code—it's about solving real problems with clean architecture, scalability, and continuous learning."*
+### Full-Stack Accommodation Booking Application
 
-</td>
+An Airbnb-inspired platform designed to help users discover and book suitable accommodations through a structured web application.
 
-</tr>
+### 🔥 What I Built
 
-</table>
+* Designed and developed the **backend architecture**
+* Developed REST APIs for users, properties and bookings
+* Implemented authentication and authorization
+* Designed and managed database models
+* Built property management APIs
+* Developed booking-related APIs and business logic
+* Implemented validation and error handling
+* Connected backend APIs with the frontend
+* Managed development using Git and GitHub
 
-</div>
+### 🛠️ Tech Stack
+
+**Node.js • Express.js • JavaScript • MongoDB • REST APIs • JWT • Git**
+
+### 🔑 Core Features
+
+* 👤 User authentication
+* 🏠 Property listings
+* 🔍 Search & filtering
+* 📅 Booking management
+* 🔐 Protected routes
+* 🗄️ Database integration
+* ⚡ RESTful API architecture
 
 ---
-# 🌍 Open Source & Leadership
 
-<div align="center">
+# 🌍 Open Source & Community
 
-> *Building software, contributing to open source, and growing through community-driven learning.*
+## 🌟 Google Student Ambassador 2026
 
-</div>
+* Promoting Google technologies among students
+* Exploring and demonstrating AI-powered tools
+* Supporting student-focused technology initiatives
+* Participating in community activities and learning initiatives
+* Connected with mentors and the developer ecosystem
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏆 Leadership
-
-### 🌟 Google Student Ambassador 2026
-
-- Representing the Google developer ecosystem
-- Promoting technical learning and community engagement
-- Supporting students through developer-focused initiatives
-
-<br>
-
-### 🌱 GirlScript Summer of Code
+## 🌱 GirlScript Summer of Code 2026
 
 **Open Source Contributor**
 
-- Collaborated on real-world open source projects
-- Worked with maintainers and contributors
-- Improved engineering practices through community contributions
+* Contributed to open-source projects
+* Collaborated with developers and contributors
+* Worked with Git and GitHub-based workflows
+* Participated in community-driven development
 
-<br>
+---
 
-### 🐧 Linux Foundation
+# 🏆 Achievements
 
-**LFX Mentorship Aspirant**
+* 🌟 **Google Student Ambassador 2026**
+* 🌱 **GirlScript Summer of Code 2026 Contributor**
+* 💻 **Open Source Contributor**
+* 🧩 **81+ LeetCode Problems Solved**
+* 🧠 **126+ GeeksforGeeks Problems Solved**
+* 🚀 Built multiple full-stack and backend-focused projects
 
-Preparing to contribute to Linux Foundation projects while improving software engineering and open-source collaboration skills.
+---
 
-</td>
+# 📜 Certifications
 
-<td width="50%" valign="top">
+* **IBM — Full Stack Development**
+* **PW — AI Chatbot**
+* **Georgia Institute of Technology — Write Professional Emails in English**
 
-## 🚀 Current Journey
+---
+
+# 🧩 Problem Solving
+
+### LeetCode
+
+<a href="https://leetcode.com/u/sagargupta-30/">
+<img src="https://img.shields.io/badge/LeetCode-81%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+### GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/user/sagargupta30/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-126%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+Currently practicing:
+
+**Arrays • Strings • Hashing • Linked Lists • Stack • Trees • Searching • Sorting • Algorithms**
+
+---
+
+# 📚 Currently Learning
 
 ```text
-2025
-│
-├── Started Software Engineering
-│
-├── Learned C, C++, Java & JavaScript
-│
-├── Built Full-Stack Projects
-│
-└── Started Open Source
-
-2026
-│
-├── Google Student Ambassador
-│
-├── GSSoC Contributor
-│
-├── Spring Boot Journey
-│
-├── System Design
-│
-└── Backend Engineering
-
-2027 🎯
-│
-├── Backend Internship
-├── LFX Mentorship
-├── Production Applications
-└── Advanced System Design
+Backend Engineering
+        ↓
+Spring Boot
+        ↓
+Microservices
+        ↓
+Docker
+        ↓
+System Design
+        ↓
+Scalable Applications
 ```
 
-</td>
+### Current Focus
 
-</tr>
-
-</table>
-
----
-
-# 🏅 Certifications & Recognition
-
-<div align="center">
-
-| Achievement | Status |
-|:-----------|:------:|
-| 🌟 Google Student Ambassador 2026 | ✅ |
-| 🌱 GirlScript Summer of Code Contributor | ✅ |
-| 🐧 Linux Foundation LFX Aspirant | 🚀 |
-| 💻 Open Source Contributor | ✅ |
-| 📚 Software Engineering Student | ✅ |
-
-</div>
+* ⚙️ Spring Boot
+* 🔐 Backend Security
+* 🏗️ System Design
+* 🔄 Microservices
+* 🐳 Docker
+* ☁️ Cloud Fundamentals
+* 🧠 Data Structures & Algorithms
 
 ---
 
-# 📚 Currently Exploring
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### ⚙️ Backend
-
-Spring Boot
-
-REST APIs
-
-Authentication
-
-Microservices
-
-</td>
-
-<td align="center">
-
-### 🏗️ System Design
-
-Scalability
-
-Caching
-
-Load Balancing
-
-Distributed Systems
-
-</td>
-
-<td align="center">
-
-### ☁️ Cloud
-
-Docker
-
-AWS
-
-CI/CD
-
-Deployment
-
-</td>
-
-<td align="center">
-
-### 🧠 Problem Solving
-
-Data Structures
-
-Algorithms
-
-LeetCode
-
-Competitive Programming
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
 ---
 
-# 💡 What Drives Me
-
-> I enjoy solving real-world problems by building reliable backend systems and continuously improving my engineering skills through projects, open source, and consistent learning.
-
-> My goal is to become a backend software engineer capable of designing scalable, maintainable, and production-ready systems that create meaningful impact.
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -529,111 +281,24 @@ Competitive Programming
 
 ---
 
-# 💻 Developer Snapshot
+# 💡 Engineering Philosophy
 
-<div align="center">
+> **Build → Break → Debug → Learn → Improve**
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🚀 Focus
-
-Backend Engineering
-
-REST APIs
-
-Spring Boot
-
-Node.js
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 Learning
-
-System Design
-
-Microservices
-
-Redis
-
-Docker
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌱 Open Source
-
-Google Student Ambassador
-
-GSSoC
-
-LFX
-
-Community
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎯 Goal
-
-Backend Internship
-
-Scalable Systems
-
-Production Software
-
-Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+I believe strong software engineering comes from continuously building real projects, understanding why systems work, learning from failures, and improving through consistent practice.
 
 ---
 
-# ⚡ Engineering Principles
-
-<div align="center">
-
-| Principle | Philosophy |
-|-----------|------------|
-| 🏗 Clean Architecture | Build maintainable and scalable software |
-| ⚡ Performance | Optimize before complexity grows |
-| 🔐 Reliability | Write secure and dependable applications |
-| 📚 Continuous Learning | Improve through projects and open source |
-| 🤝 Collaboration | Learn by building with the community |
-
-</div>
-
----
-
-# 📌 Currently Building
-
-```text
-📦 Backend Applications
-⚙️ RESTful APIs
-🌱 Spring Boot Projects
-🚀 Open Source Contributions
-📚 System Design Knowledge
-☁️ Cloud Fundamentals
-```
-
----
 # 🤝 Let's Connect
 
-<div align="center">
+I'm interested in:
 
-I'm always interested in connecting with developers, contributing to open source, and exploring backend engineering opportunities.
+* 🚀 Backend Engineering
+* 🌱 Open Source
+* 💻 Software Development
+* 🧠 System Design
+* 🤝 Developer Communities
+* 💼 Internship Opportunities
 
 <br>
 
@@ -649,52 +314,12 @@ I'm always interested in connecting with developers, contributing to open source
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SagarGupta-30/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Software engineering isn't about writing the most code—it's about building systems that people can depend on."**
-
-</div>
-
----
-
-# 🌟 Thanks for Visiting
-
-<div align="center">
-
-If you find my projects interesting or useful,
-
-consider giving them a ⭐ and connecting with me.
-
-I'm always open to:
-
-🚀 Backend Engineering Discussions
-
-🌱 Open Source Collaboration
-
-💼 Internship Opportunities
-
-💡 Building Meaningful Software
-
-<br>
-
-### ⭐ Happy Coding!
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4"/>
+### ⭐ Thanks for visiting my profile!
+
+**Always learning. Always building.**
 
 </div>
