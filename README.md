@@ -271,13 +271,6 @@ Scalable Applications
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SagarGupta-30&theme=tokyo-night&hide_border=true&radius=12"/>
-
-</div>
 
 ---
 
