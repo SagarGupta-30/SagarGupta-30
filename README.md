@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <a href="https://sagargupta-portfolio.vercel.app"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>
+  <a href="https://sagargupta-portfolio-beta.vercel.app/"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sagar-gupta-52626a381"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>
   <a href="mailto:guptasagar0130@gmail.com"><img src="./assets/link-email.svg" height="36" alt="Email" /></a>
   <a href="https://github.com/SagarGupta-30"><img src="./assets/link-github.svg" height="36" alt="GitHub" /></a>
@@ -69,11 +69,14 @@ Tools I use, technologies I've worked with, and areas I'm actively exploring.
 <details>
   <summary><b>Open-source journey & community</b></summary>
   <br />
-  - **Google Student Ambassador 2026** — exploring Google's technology ecosystem and helping build awareness of its AI tools.
-  - **Google Summer of Code 2026** — open-source contribution experience, including a merged pull request for [AOSSIE-Org/BabyNest](https://github.com/AOSSIE-Org/BabyNest/pull/254#issuecomment-6101524316).
-  - **GirlScript Summer of Code 2026** — Contributor and Ambassador; participated in the open-source community and contributed to [Nyay Setu](https://nyaysetu-lovat.vercel.app/).
+   Google Student Ambassador 2026 — exploring Google's technology ecosystem and helping build awareness of its AI tools.
+  
+   Google Summer of Code 2026.    — open-source contribution experience, including a merged pull request for [AOSSIE-Org/BabyNest].                (https://github.com/AOSSIE-Org/BabyNest/pull/254#issuecomment-6101524316).
+   
+  GirlScript Summer of Code 2026** — Contributor and Ambassador; participated in the open-source community and contributed to [Nyay Setu].          (https://nyaysetu-lovat.vercel.app/).
+  
   <br />
-  *Google Summer of Code and GirlScript Summer of Code are two distinct programs.*
+  Google Summer of Code and GirlScript Summer of Code are two distinct programs.
 </details>
 
 <br />
