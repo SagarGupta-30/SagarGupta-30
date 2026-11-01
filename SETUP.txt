@@ -1,8 +1,0 @@
-1. Open https://github.com/SagarGupta-30/SagarGupta-30
-2. Upload README.md and the entire assets/ folder to the repository root.
-3. Upload .github/workflows/snake.yml to the same path.
-4. Commit changes, open Actions, and run "Generate contribution snake" once.
-5. Verify the live portfolio URL in README.md. Replace it if your Vercel domain differs.
-6. Review all project, program and skill claims before publishing.
-
-The hero uses lightweight animated SVG (not GIF). Some renderers may disable SVG animation.
